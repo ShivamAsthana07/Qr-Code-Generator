@@ -27,8 +27,3 @@ Run the script:
 node index.js
 
 Enter your text/URL when prompted, and the QR code will be saved as a PNG file in your project folder.
-
-📸 Example
-$ node qr-generator.js
-Enter text or URL: https://github.com
-QR Code generated: qr_image.png
