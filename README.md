@@ -19,8 +19,8 @@ JavaScript
 
 Clone the repository or download the script:
 
-git clone https://github.com/your-username/qr-code-generator.git
-cd qr-code-generator
+git clone https://github.com/ShivamAsthana07/Qr-Code-Generator.git
+cd Qr-Code-Generator
 
 Run the script:
 
